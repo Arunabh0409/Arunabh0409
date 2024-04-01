@@ -2,12 +2,20 @@
 
 <h1 align="center">💫 About Me:</h1>
 
-<p align="center">🔭 I’m currently working on building Web Apps.</p>
+<p align="center">👋 I am a full-stack web developer who specializes in building web apps through the MERN stack.</p>
 
-<p align="center">🌱 I’m currently learning MERN stack and Python</p>
+<p align="center">🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.</p>
+
+<p align="center">🌱 I’m currently learning Python</p>
 
 <p align="center">💬 Ask me about Data Structures and Algorithms , Javascript , ReactJs </p>
 
+<p align="center">🌐 Connect with me: <a href="https://www.linkedin.com/in/arunabh-agarwal/">LinkedIn</a></p>
+<p align="center">📫 Contact me: <a href="mailto:arunabhagarwalindia@gmail.com">arunabhagarwalindia@gmail.com</a></p>
+<p align="center">👨‍💻 All of my projects are available at: <a href="https://github.com/Arunabh0409?tab=repositories">Github Repositories</a></p>
+
+
+All of my projects are available at [GitHub](https://github.com/yourusername).
 ---
 
 <h2 align="center">Description:</h2>
