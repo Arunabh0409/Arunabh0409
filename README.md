@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunabh Agarwal</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src = "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkg8iptUBggZS0SmRCj4Y15Zh0Yd2cwvAt2tAY7wBiA&s](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)"/>
+<img align="right" alt="Coding" width="400" src = "[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkg8iptUBggZS0SmRCj4Y15Zh0Yd2cwvAt2tAY7wBiA&s](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=900&t=st=1711993212~exp=1711993812~hmac=a9586691501c81ec0024f2b320a73dcb11f4a75e9b092b77f2802b47c16ce141)"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabh0409&label=Profile%20views&color=0e75b6&style=flat" alt="arunabh0409" /> </p>
