@@ -15,7 +15,10 @@
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://github.com/Arunabh0409?tab=repositories">Github Repositories</a></p>
 
 ---
-![Arunabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunabh0409&show_icons=true&theme=radical)
+
+## <p align="center">![Arunabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunabh0409&show_icons=true&theme=radical)</p>
+
+
 
 
 ## <h2 align="center">📈 Some of my notable projects::</h2><p align="center">[BlogEra](https://github.com/Arunabh0409/BlogEra)<br>[ShopiVerse](https://github.com/Arunabh0409/ShopiVerse)<br> [SimpliRecipe](https://github.com/Arunabh0409/SimpliRecipe)</p>
@@ -32,9 +35,7 @@
 
 ## <h2 align="center">🏆 GitHub Trophies:</h2><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arunabh0409&theme=radical&no-frame=false&no-bg=true&margin-w=4" /></p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## <h2 align="center">✍️ Random Dev Quote</h2><p align="center"><p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arunabh0409&icon=0&color=0)](https://visitcount.itsvg.in)
