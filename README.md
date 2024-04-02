@@ -4,7 +4,7 @@
 
 <p align="center">👋 I am a full-stack web developer who specializes in building web apps through the MERN stack.</p>
 
-<p align="center">🎓 A budding software engineer, currently pursuing B.Tech in computer science at The LNM Institute of Information Technology.</p>
+<p align="center">🎓 A budding software engineer, currently pursuing B.Tech in Electronics and Communication at The LNM Institute of Information Technology.</p>
 
 <p align="center">🌱 I’m currently learning Python</p>
 
