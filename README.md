@@ -31,7 +31,11 @@
 
 
  
-## <h2 align="center">📊 GitHub Stats:</h2><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arunabh0409&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunabh0409&theme=dark&hide_border=false" /><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabh0409&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
+## <h2 align="center">📊 GitHub Stats:</h2><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arunabh0409&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/><br></div>
+
+## <div style="display: flex;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunabh0409&theme=dark&hide_border=false" style="margin-right: 300px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunabh0409&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
+
+ 
 
 ## <h2 align="center">🏆 GitHub Trophies:</h2><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arunabh0409&theme=radical&no-frame=false&no-bg=true&margin-w=4" /></p>
 
