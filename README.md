@@ -24,10 +24,6 @@
 - [ShopiVerse](https://github.com/Arunabh0409/ShopiVerse)  
 - [SimpliRecipe](https://github.com/Arunabh0409/SimpliRecipe)  
 
-
-
-
-All of my projects are available at [GitHub](https://github.com/yourusername).
 ---
 
 <h2 align="center">Description:</h2>
