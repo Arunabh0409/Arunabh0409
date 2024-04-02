@@ -14,6 +14,18 @@
 <p align="center">📫 Contact me: <a href="mailto:arunabhagarwalindia@gmail.com">arunabhagarwalindia@gmail.com</a></p>
 <p align="center">👨‍💻 All of my projects are available at: <a href="https://github.com/Arunabh0409?tab=repositories">Github Repositories</a></p>
 
+---
+[![Arunabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunabh0409)](https://github.com/Arunabh0409/github-readme-stats)
+
+
+📈 **Some of my notable projects:**
+
+- [BlogEra](https://github.com/Arunabh0409/BlogEra)  
+- [ShopiVerse](https://github.com/Arunabh0409/ShopiVerse)  
+- [SimpliRecipe](https://github.com/Arunabh0409/SimpliRecipe)  
+
+
+
 
 All of my projects are available at [GitHub](https://github.com/yourusername).
 ---
