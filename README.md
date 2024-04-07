@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Arunabh Agarwal</h1>
+<h1 align="center">Hi 👋 , I'm Arunabh Agarwal </h1>
 
 <h1 align="center">💫 About Me:</h1>
 
