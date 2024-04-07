@@ -2,7 +2,7 @@
 
 <h1 align="center">💫 About Me:</h1>
 
-<p align="center">👋 I am a full-stack web developer who specializes in building web apps through the MERN stack.</p>
+<p align="center">👋 I am a Full-Stack web developer who specializes in building web apps through the MERN stack.</p>
 
 <p align="center">🎓 A budding software engineer, currently pursuing B.Tech in Electronics and Communication at The LNM Institute of Information Technology.</p>
 
